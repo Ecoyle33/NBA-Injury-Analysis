@@ -1,5 +1,5 @@
 # NBA-Injury-Analysis
-Using a dataset found on Kaggle, this repository focuses on analysing the injuries sustained by NBA teams over the past 70 years
+Using a dataset found on Kaggle, this repository focuses on analysing the injuries sustained by NBA teams over the past 70 years.
 
 The URL for the dataset found on Kaggle is shown below:
 
